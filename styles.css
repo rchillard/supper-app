@@ -6,7 +6,7 @@ body, html {
 
 .bg {
     /* The image used */
-    background-image: url("img_girl.jpg");
+    background-image: url("https://github.com/rchillard/supper-app/blob/master/ocean-bg.jpg");
 
     /* Center and scale the image nicely */
     background-position: center;
