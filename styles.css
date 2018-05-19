@@ -16,3 +16,7 @@ body, html {
     /* Full height */
     height: 100%;
 }
+
+.jumbotron {
+  margin-top: 10px;
+}
