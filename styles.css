@@ -1,0 +1,18 @@
+/* Some day this will be a real style sheet :) */
+
+body, html {
+    height: 100%;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("img_girl.jpg");
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* Full height */
+    height: 100%;
+}
